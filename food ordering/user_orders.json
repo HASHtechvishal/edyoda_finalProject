@@ -1,0 +1,38 @@
+{
+    "1": {
+        "order name": "Tandoori Chicken",
+        "quantity": 1,
+        "total price": 240,
+        "discounted price": 216.0
+    },
+    "4": {
+        "order name": "Vegan Burger ",
+        "quantity": 1,
+        "total price": 320,
+        "discounted price": 288.0
+    },
+    "2": {
+        "order name": "Vegan Burger ",
+        "quantity": 1,
+        "total price": 320,
+        "discounted price": 288.0
+    },
+    "3": {
+        "order name": "Tandoori Chicken",
+        "quantity": 2,
+        "total price": 480,
+        "discounted price": 432.0
+    },
+    "5": {
+        "order name": "Truffle Cake",
+        "quantity": 3,
+        "total price": 2700,
+        "discounted price": 2430.0
+    },
+    "6": {
+        "order name": "Tandoori Chicken",
+        "quantity": 1,
+        "total price": 240,
+        "discounted price": 216.0
+    }
+}

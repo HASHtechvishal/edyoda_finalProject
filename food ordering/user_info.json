@@ -1,0 +1,44 @@
+{
+    "1": {
+        "name": "vishu",
+        "number": "7508050111",
+        "email": "vishu@gmail.com",
+        "address": "ram das",
+        "password": "1111"
+    },
+    "2": {
+        "name": "saisha",
+        "number": 7878797987,
+        "email": "sai@gmail.com",
+        "address": "ram das",
+        "password": "1111"
+    },
+    "3": {
+        "name": "maulika",
+        "number": 99876589,
+        "email": "mal@gmail.com",
+        "address": "ram dass",
+        "password": "2222"
+    },
+    "4": {
+        "name": "aaa",
+        "number": 453453,
+        "email": "ergerger",
+        "address": "regeqrg",
+        "password": "1111"
+    },
+    "5": {
+        "name": "bbb",
+        "number": 454543543543,
+        "email": "bbb",
+        "address": "bbb",
+        "password": "1111"
+    },
+    "6": {
+        "name": "xyz",
+        "number": "11221312",
+        "email": "cfevfe",
+        "address": "efverve",
+        "password": "1111"
+    }
+}
